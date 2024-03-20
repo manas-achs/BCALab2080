@@ -1,0 +1,9 @@
+git init 
+
+git clone  https://github.com/sPaudel1544/BCALab2080.git
+
+git log
+
+git checkout -b BCA_Lab_Test
+
+git branch
